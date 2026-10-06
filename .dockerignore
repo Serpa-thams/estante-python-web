@@ -1,0 +1,9 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+estante.db
+.idea/
+.git/
+.mcp.json
